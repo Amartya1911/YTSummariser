@@ -1,4 +1,4 @@
-# [Colab Link:](https://colab.research.google.com/drive/1ieUu0-CkOj6YDPcTJh8_7aV_d5wxOV_z?usp=sharing) 
+# [Colab Link!](https://colab.research.google.com/drive/1ieUu0-CkOj6YDPcTJh8_7aV_d5wxOV_z?usp=sharing) 
 
 #  YouTube Technical Tutorial Note-Taker
 
